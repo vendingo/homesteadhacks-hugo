@@ -1,0 +1,5 @@
+baseURL = 'https://homesteadhacks.ai'
+languageCode = 'en-us'
+title = 'Homestead Hacks 2026'
+[params]
+  description = 'Faceless Christian Homesteading YT + POD'
